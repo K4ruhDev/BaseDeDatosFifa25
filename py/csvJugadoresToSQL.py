@@ -1,6 +1,13 @@
 import csv
 # Script para generar los inserts SQL a partir del CSV de jugadores
 
+def es_numero(valor):
+    try:
+        float(valor)
+        return True
+    except ValueError:
+        return False
+
 csvJugadores = '../csv/jugadoresDB.csv'
 tabla = 'jugadores'
 
@@ -15,8 +22,14 @@ with open(csvJugadores, 'r', encoding='utf-8') as csvfile:
     for fila in reader:
         valores = []
         for valor in fila:
-            valorReal = valor.replace("'", "''")  
-            valores.append(f"'{valorReal}'")
+            valor = valor.strip()
+            if valor == '':
+                valores.append('NULL')
+            elif es_numero(valor):
+                valores.append(valor)
+            else:
+                valorReal = valor.replace("'", "''")    
+                valores.append(f"'{valorReal}'")
 
         insert = f"INSERT INTO {tabla} ({', '.join(columnas)}) VALUES ({', '.join(valores)});"
         inserts.append(insert)
@@ -27,4 +40,5 @@ with open('../sql/insertJugadores.sql', 'w', encoding='utf-8') as sqlfile:
     for insert in inserts:
         sqlfile.write(insert + '\n')
     print(f"Se han generado {len(inserts)} sentencias INSERT.")
+
 
