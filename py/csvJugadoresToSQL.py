@@ -27,6 +27,10 @@ with open(csvJugadores, 'r', encoding='utf-8') as csvfile:
                 valores.append('NULL')
             elif es_numero(valor):
                 valores.append(valor)
+            elif valor == 'Right':
+                valores.append("'Diestro'")
+            elif valor == 'Left':
+                valores.append("'Zurdo'")
             else:
                 valorReal = valor.replace("'", "''")    
                 valores.append(f"'{valorReal}'")
