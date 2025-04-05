@@ -40,9 +40,9 @@ with open(csvJugadores, 'r', encoding='utf-8') as csvfile:
             elif valor == 'Left':
                 valores.append("'Zurdo'")
             else:
+                # Si no quieres traducir los nombres de los paises al español, puedes saltarte el siguiente if
                 if valor in traductor:
                     valor = traductor[valor]
-
                 valorReal = valor.replace("'", "''")    
                 valores.append(f"'{valorReal}'")
 
