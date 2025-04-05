@@ -1,4 +1,4 @@
-id_equipo,equipo,id_liga
+cod_equipo,nombre,cod_liga
 1,Real Madrid,1
 2,Manchester City,2
 3,FC Bayern München,3
