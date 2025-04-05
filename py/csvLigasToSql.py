@@ -9,7 +9,7 @@ def es_numero(valor):
         return False
 
 csvLigas = '../csv/leagues.csv'
-tabla = 'jugadores'
+tabla = 'ligas'
 
 with open(csvLigas, 'r', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
