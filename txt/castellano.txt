@@ -152,3 +152,5 @@ Malaui
 Islas Feroe
 Corea del Norte
 Liechtenstein
+Diestro
+Zurdo
