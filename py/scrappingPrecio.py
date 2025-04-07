@@ -25,9 +25,10 @@ def asignar_precio(codigo):
         if span:
             precio = span.text.strip()
             if 'K' in precio:
-                print(precio[1:].replace('K', '') + '000')
-                
-                return precio[1:].replace('K', '') + '000'
+                valor = float(precio[1:].replace('K', ''))
+                convertido = str(int(valor * 1000))
+                print(convertido)
+                return convertido
             else:
                 print('no entar')
                 return precio  # Devuelve el precio sin formato 'k'
