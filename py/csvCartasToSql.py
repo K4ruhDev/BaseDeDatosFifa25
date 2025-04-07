@@ -1,4 +1,5 @@
 import csv
+import pandas
 
 def es_numero(valor):
     try:
@@ -6,16 +7,12 @@ def es_numero(valor):
         return True
     except ValueError:
         return False
-    
 
-csv = '../csv/cartasJugadores.csv'
+csvCartas = '../csv/cartasJugadores.csv'
+tabla = 'cartas'
 
-csvEquipos = '../csv/teams.csv'
-tabla = 'equipos'
-
-with open(csvEquipos, 'r', encoding='utf-8') as csvfile:
+with open(csvCartas, 'r', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
-    # Leer la primera fila para obtener los nombres de las columnas
     columnas = next(reader)
     print(columnas)
     inserts = []
@@ -35,7 +32,7 @@ with open(csvEquipos, 'r', encoding='utf-8') as csvfile:
         inserts.append(insert)
 
 # Guardar los inserts en un archivo SQL
-with open('../sql/insertEquipos.sql', 'w', encoding='utf-8') as sqlfile:
+with open('../sql/insertCartas.sql', 'w', encoding='utf-8') as sqlfile:
     for insert in inserts:
         sqlfile.write(insert + '\n')
     print(f"Se han generado {len(inserts)} sentencias INSERT.")
