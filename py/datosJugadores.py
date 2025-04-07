@@ -5,17 +5,16 @@ import pandas as pd
 jugadores = pd.read_csv('../csv/general_players.csv')
 equipos = pd.read_csv('../csv/teams.csv')
 
-
 jugadores['Team'] = jugadores['Team'].str.strip()
 equipos['equipo'] = equipos['equipo'].str.strip()
 
-# Crear un diccionario para mapear los nombres de los equipos a sus IDs
+#Crear un diccionario para mapear los nombres de los equipos a sus IDs
 equipoToId = dict(zip(equipos['equipo'], equipos['id_equipo']))
 
-# Añadir la columna 'idEquipo' a los jugadores usando el diccionario
+# # Añadir la columna 'idEquipo' a los jugadores usando el diccionario
 jugadores['idEquipo'] = jugadores['Team'].map(equipoToId)
 
-## print(jugadores[['Team', 'idEquipo']]) Print para debug
+# print(jugadores[['Team', 'idEquipo']]) Print para debug
 
 """
 Columnas del CSV Jugadores
@@ -32,6 +31,15 @@ nuevosJugadores = jugadores.drop(columns=columnasBorrar)
 
 nuevosJugadores.to_csv('../csv/jugadoresDB.csv', index=False)
 
+# Sacar las cartas de los jugadores
+columnasBorrar = [
+    "Preferred foot", "Height", "Nation", "League"
+]
 
+jugadores['codigo_Fifa'] = jugadores['url'].str.extract(r'/(\d+)$')
+
+cartasJugadores = jugadores.drop(columns=columnasBorrar)
+
+cartasJugadores.to_csv('../csv/cartasJugadores.csv')
 
 
