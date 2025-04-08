@@ -1,0 +1,657 @@
+Real Madrid
+Manchester City
+FC Bayern München
+Arsenal
+Paris SG
+Liverpool
+Lombardia FC
+FC Barcelona
+Inter Miami CF
+Atlético de Madrid
+Leverkusen
+Borussia Dortmund
+SSC Napoli
+AS Roma
+Milano FC
+Al Hilal
+Man Utd
+Spurs
+Aston Villa
+Al Nassr
+Al Ittihad
+Juventus
+Athletic Club
+Newcastle Utd
+Al Ahli
+Valencia CF
+RB Leipzig
+Chelsea
+RC Celta
+Sporting CP
+FC Porto
+Real Sociedad
+River Plate
+Sassuolo
+Al Shabab
+SL Benfica
+Fenerbahçe
+Beşiktaş
+LAFC
+Galatasaray
+Villarreal CF
+Everton
+Latium
+West Ham
+Girona FC
+Torino
+Real Betis
+Al Qadisiyah
+TSG Hoffenheim
+Bergamo Calcio
+RCD Mallorca
+SC Freiburg
+OL
+Fulham
+RC Lens
+Al Fayha
+Frankfurt
+Como
+FC Cincinnati
+SC Braga
+LOSC Lille
+PSV
+Crystal Palace
+Bologna
+AS Monaco
+Feyenoord
+Brighton
+Rayo Vallecano
+Southampton
+Trabzonspor
+Getafe CF
+VfB Stuttgart
+UD Las Palmas
+Royal Antwerp FC
+VfL Wolfsburg
+OGC Nice
+AFC Bournemouth
+Lecce
+Sevilla FC
+Ettifaq FC
+Fiorentina
+Ajax
+OM
+Brentford
+Hajduk Split
+Montpellier
+Celtic
+FC Twente
+Club Brugge
+Al Fateh
+Wolves
+Newell's
+Stade Brestois 29
+CA Osasuna
+AZ
+Red Bulls
+Nott'm Forest
+New England
+CD Leganés
+M'gladbach
+AEK Athens
+Nashville SC
+Monza
+Strasbourg
+Al Ain FC
+Union Berlin
+1. FSV Mainz 05
+Real Salt Lake
+Leicester City
+Sparta Praha
+St. Louis CITY SC
+Ferencvárosi TC
+Slavia Praha
+Shanghai Port FC
+Olympiacos FC
+Al Taawoun
+Whitecaps FC
+Stade Rennais FC
+Columbus Crew
+Houston Dynamo
+Toronto FC
+Stade de Reims
+D. Alavés
+Panathinaikos
+Orlando City
+LA Galaxy
+Toulouse FC
+Boca Juniors
+Dynamo Kyiv
+Rangers
+RSC Anderlecht
+PAOK FC
+Al Orobah
+UD Almería
+RB Salzburg
+Portland Timbers
+Luton Town
+Austin FC
+SV Werder Bremen
+Al Kholood
+KRC Genk
+FC Dallas
+Cagliari
+R. Valladolid CF
+Genoa
+Hellas Verona
+Lanús
+FC Lorient
+Damac FC
+Atl. Nacional
+Dinamo Zagreb
+Ipswich
+RCD Espanyol
+Racing Club
+1. FC Köln
+Shakhtar Donetsk
+Leeds United
+Sunderland
+Estudiantes
+Parma
+Junior
+FK Bodø/Glimt
+Burnley
+Granada CF
+San Lorenzo
+R. Union St.-G.
+Rosario Central
+FC Nantes
+Chicago Fire FC
+Başakşehir
+Empoli
+F.C. København
+Cercle Brugge
+Peñarol
+Cádiz CF
+FC Augsburg
+Hannover 96
+Sheffield Utd
+Konyaspor
+Talleres
+Paris FC
+Vitória SC
+Heidenheim
+Sivasspor
+FC Midtjylland
+Sounders FC
+Millonarios
+Levante UD
+Sparta Rotterdam
+Shandong Taishan
+VfL Bochum 1848
+N.E.C. Nijmegen
+Vélez Sarsfield
+Al Khaleej
+Sampdoria
+FC Famalicão
+Sp. Charleroi
+AS Saint-Étienne
+Pohang Steelers
+Udinese
+Philadelphia
+Barcelona SC
+R. Oviedo
+Casa Pia AC
+R. Sporting
+Gil Vicente
+Rio Ave FC
+Havre AC
+Palermo
+Clermont Foot 63
+Elche CF
+LDU Quito
+FK Austria Wien
+Molde FK
+Al Wehda
+SJ Earthquakes
+Arouca
+FC Seoul
+Ulsan Hyundai
+Minnesota United
+Zhejiang Pro
+Independiente
+Gaziantep
+RC Deportivo
+Venezia
+Hertha BSC
+Estoril Praia
+Alianza Lima
+Argentinos Jrs.
+Adana Demirspor
+KV Mechelen
+Hearts
+Coventry City
+IDV
+Brøndby IF
+FC Lugano
+Servette FC
+Viktoria Plzeň
+AJ Auxerre
+Cremonese
+R. Racing Club
+LASK
+Charlotte FC
+SD Eibar
+Real Zaragoza
+FC Utrecht
+D.C. United
+Standard Liège
+Stoke City
+Blackburn Rovers
+Südtirol
+QPR
+Cardiff City
+Colo-Colo
+Gimnasia
+Moreirense FC
+KV Kortrijk
+Banfield
+U. Católica
+Huracán
+BSC Young Boys
+Cerro Porteño
+Belgrano
+Al Raed
+Kasımpaşa
+Hamburger SV
+SK Sturm Graz
+Pogoń Szczecin
+Norwich
+Çaykur Rizespor
+FC Metz
+FC Basel 1893
+Holstein Kiel
+FC St. Pauli
+Alanyaspor
+1. FC Nürnberg
+KAA Gent
+Gimcheon Sangmu
+Daejeon
+Instituto
+Sydney FC
+Salernitana
+Hull City
+Colorado Rapids
+Beijing FC
+Godoy Cruz
+BK Häcken
+Eyüpspor
+SV Darmstadt 98
+Libertad
+Daegu FC
+Changchun Yatai
+Samsunspor
+West Brom
+Preston
+Plymouth Argyle
+Uni. Católica
+Boavista FC
+Angers SCO
+Pisa
+Kaiserslautern
+FC St. Gallen
+Estrela Amadora
+Shanghai Shenhua
+Reggiana
+APOEL FC
+Ind. Rivadavia
+Millwall
+Unión
+Malmö FF
+Djurgårdens IF
+Rongcheng FC
+Racing de Ferrol
+Qarabağ FK
+Lausanne-Sport
+Hatayspor
+Olimpia
+Deportes Tolima
+FC Nordsjælland
+FC Schalke 04
+Bolívar
+Melbourne City
+Göztepe
+Raków
+PEC Zwolle
+SM Caen
+Univ. Craiova
+Huachipato
+New York City FC
+Middlesbrough
+América de Cali
+Incheon United
+Al Okhdood
+sc Heerenveen
+FCSB
+Frosinone
+Nacional
+Spezia
+Auckland FC
+Farense
+Watford
+AGF
+Viking FK
+Tianjin JMT FC
+Karlsruher SC
+Atlanta United
+Henan FC
+Sportivo Luqueño
+Düsseldorf
+Kilmarnock
+Sheffield Wed
+Swansea City
+Defensa
+Qingdao W. Coast
+SK Rapid
+Grenoble Foot 38
+Yverdon Sport FC
+Braunschweig
+Birmingham City
+Modena
+FC Zürich
+Kayserispor
+CF Montréal
+CD Tenerife
+Catanzaro
+Qingdao Hainiu
+Platense
+Bristol City
+Bari
+Santa Clara
+Macarthur FC
+Widzew Łódź
+Preußen Münster
+Bodrum FK
+Fürth
+Jagiellonia
+Sarmiento
+IFK Norrköping
+Antalyaspor
+Jeonbuk Hyundai
+Málaga CF
+Cangzhou FC
+OH Leuven
+Bengaluru FC
+Suwon FC
+Indep. Medellín
+Dep. Cuenca
+Górnik Zabrze
+Universitario
+Sporting KC
+SD Huesca
+Atlético Tucumán
+Lech Poznań
+Rosenborg BK
+KVC Westerlo
+STVV
+The Strongest
+IF Elfsborg
+CD Castellón
+1. FC Magdeburg
+Jeju United
+Cesena
+Wolfsberger AC
+Hammarby IF
+Brescia
+Hibernian
+Fortuna Sittard
+Coquimbo Unido
+Derby County
+Albacete BP
+Burgos CF
+FC Winterthur
+East Bengal
+AVS Futebol SAD
+SZ Peng City
+Wuhan Three Towns
+Danubio
+Tigre
+Wanderers
+Huddersfield
+GwangJu FC
+FC Luzern
+Meizhou Hakka FC
+FC Sion
+UCV
+Cosenza
+SC Paderborn 07
+Barracas Central
+GC Zürich
+Aberdeen
+Legia Warszawa
+Brisbane Roar
+Sport Huancayo
+Randers FC
+USL Dunkerque
+Palestino
+FC Groningen
+Cobresal
+Adelaide United
+Farul Constanța
+Técnico U.
+TSV Hartberg
+Always Ready
+Odisha FC
+Cittadella
+Oxford United
+Zagłębie Lubin
+Red Star FC
+Wrexham
+Go Ahead Eagles
+Caracas FC
+CD Mirandés
+SK Brann
+Amiens SC
+Cerro Largo
+Nacional Potosí
+CD Eldense
+FC Rapid 1923
+Central Coast
+Pau FC
+Melb. Victory
+FC Cartagena
+FC Univ. Cluj
+Central Córdoba
+AIK
+Laval MFC
+Arminia Bielefeld
+Guaraní
+Stal Mielec
+Silkeborg IF
+SCR Altach
+Wehen Wiesbaden
+CFR 1907 Cluj
+Perth Glory
+FC Hansa Rostock
+Reading
+RKC Waalwijk
+Bolton
+Mantova
+Dep. Táchira
+IFK Göteborg
+Śląsk Wrocław
+FC Ingolstadt 04
+Portsmouth
+WS Wanderers
+Charlton Ath
+St. Johnstone
+ESTAC Troyes
+Rotherham Utd
+Dep. Garcilaso
+Mohun Bagan SG
+VfL Osnabrück
+Jamshedpur FC
+Unión La Calera
+Grazer AK
+Metropolitanos
+Lillestrøm SK
+Rot-Weiss Essen
+Odds BK
+Dynamo Dresden
+Dep. Riestra
+SV Elversberg
+NAC Breda
+Sarpsborg 08
+Nantong Zhiyun FC
+Jahn Regensburg
+FCV Dender EH
+Wycombe
+Gangwon FC
+Viborg FF
+Austria Klagenfurt
+AC Ajaccio
+Willem II
+Sepsi OSK
+GKS Katowice
+Peterborough
+Motor Lublin
+K. Beerschot VA
+Carrarese Calcio
+FK Haugesund
+Strømsgodset IF
+WSG Tirol
+Wilstermann
+AaB
+Cracovia
+KFUM-Kameratene
+FC Martigues
+Mansfield Town
+Punjab FC
+Almere City FC
+Well. Phoenix
+En Avant Guingamp
+Alianza FC
+SV Waldhof
+FC Dinamo 1948
+Shamrock Rovers
+SC Oțelul Galați
+Vejle Boldklub
+Piast Gliwice
+FC Goa
+SC Bastia
+IFK Värnamo
+Lincoln City
+SSV Ulm 1846
+Western United
+Blau-Weiss Linz
+Carabobo FC
+Northampton
+Heracles Almelo
+Barnsley
+Blackpool
+Notts County
+Mumbai City FC
+Kerala Blasters
+FC Erzgebirge Aue
+Córdoba CF
+Saarbrücken
+Exeter City
+Rodez AF
+Brommapojkarna
+St. Mirren
+S. Ameliano
+Stevenage
+ADT
+Wigan Athletic
+Motherwell
+Dep. La Guaira
+1860 München
+FC Petrolul
+Club Nacional
+FC Hermannstadt
+SV Sandhausen
+FC Gloria Buzău
+Chennaiyin FC
+S. Trinidense
+Chesterfield
+FC Annecy
+NorthEast United
+FC Botoșani
+Radomiak Radom
+B. Dortmund II
+Kalmar FF
+Tromsø IL
+Colchester
+Delfín SC
+SS Juve Stabia
+Mjällby AIF
+Korona Kielce
+Politehnica Iași
+HJK Helsinki
+Doncaster
+Dundee United
+Dundee FC
+Puszcza
+Lyngby BK
+Al Riyadh
+UTA Arad
+SC Verl
+Halmstads BK
+Cambridge Utd
+Fredrikstad FK
+Lechia Gdańsk
+Sønderjyske
+Port Vale
+Galway United
+Bristol Rovers
+St. Pats
+Aleman. Aachen
+Leyton Orient
+Real Tomayapo
+Bradford City
+Viktoria Köln
+Stockport
+Shelbourne
+MK Dons
+Unterhaching
+Fleetwood Town
+Shrewsbury
+HamKam Fotball
+Salford City
+Carlisle United
+Burton Albion
+Energie Cottbus
+Crewe Alexandra
+Derry City
+Walsall
+Swindon Town
+Gillingham
+Barrow
+Sligo Rovers
+Sandefjord
+IK Sirius
+Unirea Slobozia
+Newcastle Jets
+VfB Stuttgart II
+Rayo Zuliano
+Crawley Town
+Morecambe
+Västerås SK
+AFC Wimbledon
+Ross County
+Kristiansund BK
+GAIS
+Tranmere Rovers
+Harrogate Town
+Cheltenham Town
+Bromley FC
+Bohemians
+Hannover 96 II
+Grimsby Town
+Newport County
+Accrington
+Waterford
+Dundalk
+Drogheda United
+Mohammedan SC
+Hyderabad FC

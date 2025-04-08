@@ -1,0 +1,658 @@
+Nombre	ID
+Real Madrid	No encontrado
+Manchester City	No encontrado
+FC Bayern München	No encontrado
+Arsenal	No encontrado
+Paris SG	No encontrado
+Liverpool	No encontrado
+Lombardia FC	No encontrado
+FC Barcelona	No encontrado
+Inter Miami CF	No encontrado
+Atlético de Madrid	No encontrado
+Leverkusen	No encontrado
+Borussia Dortmund	No encontrado
+SSC Napoli	No encontrado
+AS Roma	No encontrado
+Milano FC	No encontrado
+Al Hilal	No encontrado
+Man Utd	No encontrado
+Spurs	No encontrado
+Aston Villa	No encontrado
+Al Nassr	No encontrado
+Al Ittihad	No encontrado
+Juventus	No encontrado
+Athletic Club	No encontrado
+Newcastle Utd	No encontrado
+Al Ahli	No encontrado
+Valencia CF	No encontrado
+RB Leipzig	No encontrado
+Chelsea	No encontrado
+RC Celta	No encontrado
+Sporting CP	No encontrado
+FC Porto	No encontrado
+Real Sociedad	No encontrado
+River Plate	No encontrado
+Sassuolo	No encontrado
+Al Shabab	No encontrado
+SL Benfica	No encontrado
+Fenerbahçe	No encontrado
+Beşiktaş	No encontrado
+LAFC	No encontrado
+Galatasaray	No encontrado
+Villarreal CF	No encontrado
+Everton	No encontrado
+Latium	No encontrado
+West Ham	No encontrado
+Girona FC	No encontrado
+Torino	No encontrado
+Real Betis	No encontrado
+Al Qadisiyah	No encontrado
+TSG Hoffenheim	No encontrado
+Bergamo Calcio	No encontrado
+RCD Mallorca	No encontrado
+SC Freiburg	No encontrado
+OL	No encontrado
+Fulham	No encontrado
+RC Lens	No encontrado
+Al Fayha	No encontrado
+Frankfurt	No encontrado
+Como	No encontrado
+FC Cincinnati	No encontrado
+SC Braga	No encontrado
+LOSC Lille	No encontrado
+PSV	No encontrado
+Crystal Palace	No encontrado
+Bologna	No encontrado
+AS Monaco	No encontrado
+Feyenoord	No encontrado
+Brighton	No encontrado
+Rayo Vallecano	No encontrado
+Southampton	No encontrado
+Trabzonspor	No encontrado
+Getafe CF	No encontrado
+VfB Stuttgart	No encontrado
+UD Las Palmas	No encontrado
+Royal Antwerp FC	No encontrado
+VfL Wolfsburg	No encontrado
+OGC Nice	No encontrado
+AFC Bournemouth	No encontrado
+Lecce	No encontrado
+Sevilla FC	No encontrado
+Ettifaq FC	No encontrado
+Fiorentina	No encontrado
+Ajax	No encontrado
+OM	No encontrado
+Brentford	No encontrado
+Hajduk Split	No encontrado
+Montpellier	No encontrado
+Celtic	No encontrado
+FC Twente	No encontrado
+Club Brugge	No encontrado
+Al Fateh	No encontrado
+Wolves	No encontrado
+Newell's	No encontrado
+Stade Brestois 29	No encontrado
+CA Osasuna	No encontrado
+AZ	No encontrado
+Red Bulls	No encontrado
+Nott'm Forest	No encontrado
+New England	No encontrado
+CD Leganés	No encontrado
+M'gladbach	No encontrado
+AEK Athens	No encontrado
+Nashville SC	No encontrado
+Monza	No encontrado
+Strasbourg	No encontrado
+Al Ain FC	No encontrado
+Union Berlin	No encontrado
+1. FSV Mainz 05	No encontrado
+Real Salt Lake	No encontrado
+Leicester City	No encontrado
+Sparta Praha	No encontrado
+St. Louis CITY SC	No encontrado
+Ferencvárosi TC	No encontrado
+Slavia Praha	No encontrado
+Shanghai Port FC	No encontrado
+Olympiacos FC	No encontrado
+Al Taawoun	No encontrado
+Whitecaps FC	No encontrado
+Stade Rennais FC	No encontrado
+Columbus Crew	No encontrado
+Houston Dynamo	No encontrado
+Toronto FC	No encontrado
+Stade de Reims	No encontrado
+D. Alavés	No encontrado
+Panathinaikos	No encontrado
+Orlando City	No encontrado
+LA Galaxy	No encontrado
+Toulouse FC	No encontrado
+Boca Juniors	No encontrado
+Dynamo Kyiv	No encontrado
+Rangers	No encontrado
+RSC Anderlecht	No encontrado
+PAOK FC	No encontrado
+Al Orobah	No encontrado
+UD Almería	No encontrado
+RB Salzburg	No encontrado
+Portland Timbers	No encontrado
+Luton Town	No encontrado
+Austin FC	No encontrado
+SV Werder Bremen	No encontrado
+Al Kholood	No encontrado
+KRC Genk	No encontrado
+FC Dallas	No encontrado
+Cagliari	No encontrado
+R. Valladolid CF	No encontrado
+Genoa	No encontrado
+Hellas Verona	No encontrado
+Lanús	No encontrado
+FC Lorient	No encontrado
+Damac FC	No encontrado
+Atl. Nacional	No encontrado
+Dinamo Zagreb	No encontrado
+Ipswich	No encontrado
+RCD Espanyol	No encontrado
+Racing Club	No encontrado
+1. FC Köln	No encontrado
+Shakhtar Donetsk	No encontrado
+Leeds United	No encontrado
+Sunderland	No encontrado
+Estudiantes	No encontrado
+Parma	No encontrado
+Junior	No encontrado
+FK Bodø/Glimt	No encontrado
+Burnley	No encontrado
+Granada CF	No encontrado
+San Lorenzo	No encontrado
+R. Union St.-G.	No encontrado
+Rosario Central	No encontrado
+FC Nantes	No encontrado
+Chicago Fire FC	No encontrado
+Başakşehir	No encontrado
+Empoli	No encontrado
+F.C. København	No encontrado
+Cercle Brugge	No encontrado
+Peñarol	No encontrado
+Cádiz CF	No encontrado
+FC Augsburg	No encontrado
+Hannover 96	No encontrado
+Sheffield Utd	No encontrado
+Konyaspor	No encontrado
+Talleres	No encontrado
+Paris FC	No encontrado
+Vitória SC	No encontrado
+Heidenheim	No encontrado
+Sivasspor	No encontrado
+FC Midtjylland	No encontrado
+Sounders FC	No encontrado
+Millonarios	No encontrado
+Levante UD	No encontrado
+Sparta Rotterdam	No encontrado
+Shandong Taishan	No encontrado
+VfL Bochum 1848	No encontrado
+N.E.C. Nijmegen	No encontrado
+Vélez Sarsfield	No encontrado
+Al Khaleej	No encontrado
+Sampdoria	No encontrado
+FC Famalicão	No encontrado
+Sp. Charleroi	No encontrado
+AS Saint-Étienne	No encontrado
+Pohang Steelers	No encontrado
+Udinese	No encontrado
+Philadelphia	No encontrado
+Barcelona SC	No encontrado
+R. Oviedo	No encontrado
+Casa Pia AC	No encontrado
+R. Sporting	No encontrado
+Gil Vicente	No encontrado
+Rio Ave FC	No encontrado
+Havre AC	No encontrado
+Palermo	No encontrado
+Clermont Foot 63	No encontrado
+Elche CF	No encontrado
+LDU Quito	No encontrado
+FK Austria Wien	No encontrado
+Molde FK	No encontrado
+Al Wehda	No encontrado
+SJ Earthquakes	No encontrado
+Arouca	No encontrado
+FC Seoul	No encontrado
+Ulsan Hyundai	No encontrado
+Minnesota United	No encontrado
+Zhejiang Pro	No encontrado
+Independiente	No encontrado
+Gaziantep	No encontrado
+RC Deportivo	No encontrado
+Venezia	No encontrado
+Hertha BSC	No encontrado
+Estoril Praia	No encontrado
+Alianza Lima	No encontrado
+Argentinos Jrs.	No encontrado
+Adana Demirspor	No encontrado
+KV Mechelen	No encontrado
+Hearts	No encontrado
+Coventry City	No encontrado
+IDV	No encontrado
+Brøndby IF	No encontrado
+FC Lugano	No encontrado
+Servette FC	No encontrado
+Viktoria Plzeň	No encontrado
+AJ Auxerre	No encontrado
+Cremonese	No encontrado
+R. Racing Club	No encontrado
+LASK	No encontrado
+Charlotte FC	No encontrado
+SD Eibar	No encontrado
+Real Zaragoza	No encontrado
+FC Utrecht	No encontrado
+D.C. United	No encontrado
+Standard Liège	No encontrado
+Stoke City	No encontrado
+Blackburn Rovers	No encontrado
+Südtirol	No encontrado
+QPR	No encontrado
+Cardiff City	No encontrado
+Colo-Colo	No encontrado
+Gimnasia	No encontrado
+Moreirense FC	No encontrado
+KV Kortrijk	No encontrado
+Banfield	No encontrado
+U. Católica	No encontrado
+Huracán	No encontrado
+BSC Young Boys	No encontrado
+Cerro Porteño	No encontrado
+Belgrano	No encontrado
+Al Raed	No encontrado
+Kasımpaşa	No encontrado
+Hamburger SV	No encontrado
+SK Sturm Graz	No encontrado
+Pogoń Szczecin	No encontrado
+Norwich	No encontrado
+Çaykur Rizespor	No encontrado
+FC Metz	No encontrado
+FC Basel 1893	No encontrado
+Holstein Kiel	No encontrado
+FC St. Pauli	No encontrado
+Alanyaspor	No encontrado
+1. FC Nürnberg	No encontrado
+KAA Gent	No encontrado
+Gimcheon Sangmu	No encontrado
+Daejeon	No encontrado
+Instituto	No encontrado
+Sydney FC	No encontrado
+Salernitana	No encontrado
+Hull City	No encontrado
+Colorado Rapids	No encontrado
+Beijing FC	No encontrado
+Godoy Cruz	No encontrado
+BK Häcken	No encontrado
+Eyüpspor	No encontrado
+SV Darmstadt 98	No encontrado
+Libertad	No encontrado
+Daegu FC	No encontrado
+Changchun Yatai	No encontrado
+Samsunspor	No encontrado
+West Brom	No encontrado
+Preston	No encontrado
+Plymouth Argyle	No encontrado
+Uni. Católica	No encontrado
+Boavista FC	No encontrado
+Angers SCO	No encontrado
+Pisa	No encontrado
+Kaiserslautern	No encontrado
+FC St. Gallen	No encontrado
+Estrela Amadora	No encontrado
+Shanghai Shenhua	No encontrado
+Reggiana	No encontrado
+APOEL FC	No encontrado
+Ind. Rivadavia	No encontrado
+Millwall	No encontrado
+Unión	No encontrado
+Malmö FF	No encontrado
+Djurgårdens IF	No encontrado
+Rongcheng FC	No encontrado
+Racing de Ferrol	No encontrado
+Qarabağ FK	No encontrado
+Lausanne-Sport	No encontrado
+Hatayspor	No encontrado
+Olimpia	No encontrado
+Deportes Tolima	No encontrado
+FC Nordsjælland	No encontrado
+FC Schalke 04	No encontrado
+Bolívar	No encontrado
+Melbourne City	No encontrado
+Göztepe	No encontrado
+Raków	No encontrado
+PEC Zwolle	No encontrado
+SM Caen	No encontrado
+Univ. Craiova	No encontrado
+Huachipato	No encontrado
+New York City FC	No encontrado
+Middlesbrough	No encontrado
+América de Cali	No encontrado
+Incheon United	No encontrado
+Al Okhdood	No encontrado
+sc Heerenveen	No encontrado
+FCSB	No encontrado
+Frosinone	No encontrado
+Nacional	No encontrado
+Spezia	No encontrado
+Auckland FC	No encontrado
+Farense	No encontrado
+Watford	No encontrado
+AGF	No encontrado
+Viking FK	No encontrado
+Tianjin JMT FC	No encontrado
+Karlsruher SC	No encontrado
+Atlanta United	No encontrado
+Henan FC	No encontrado
+Sportivo Luqueño	No encontrado
+Düsseldorf	No encontrado
+Kilmarnock	No encontrado
+Sheffield Wed	No encontrado
+Swansea City	No encontrado
+Defensa	No encontrado
+Qingdao W. Coast	No encontrado
+SK Rapid	No encontrado
+Grenoble Foot 38	No encontrado
+Yverdon Sport FC	No encontrado
+Braunschweig	No encontrado
+Birmingham City	No encontrado
+Modena	No encontrado
+FC Zürich	No encontrado
+Kayserispor	No encontrado
+CF Montréal	No encontrado
+CD Tenerife	No encontrado
+Catanzaro	No encontrado
+Qingdao Hainiu	No encontrado
+Platense	No encontrado
+Bristol City	No encontrado
+Bari	No encontrado
+Santa Clara	No encontrado
+Macarthur FC	No encontrado
+Widzew Łódź	No encontrado
+Preußen Münster	No encontrado
+Bodrum FK	No encontrado
+Fürth	No encontrado
+Jagiellonia	No encontrado
+Sarmiento	No encontrado
+IFK Norrköping	No encontrado
+Antalyaspor	No encontrado
+Jeonbuk Hyundai	No encontrado
+Málaga CF	No encontrado
+Cangzhou FC	No encontrado
+OH Leuven	No encontrado
+Bengaluru FC	No encontrado
+Suwon FC	No encontrado
+Indep. Medellín	No encontrado
+Dep. Cuenca	No encontrado
+Górnik Zabrze	No encontrado
+Universitario	No encontrado
+Sporting KC	No encontrado
+SD Huesca	No encontrado
+Atlético Tucumán	No encontrado
+Lech Poznań	No encontrado
+Rosenborg BK	No encontrado
+KVC Westerlo	No encontrado
+STVV	No encontrado
+The Strongest	No encontrado
+IF Elfsborg	No encontrado
+CD Castellón	No encontrado
+1. FC Magdeburg	No encontrado
+Jeju United	No encontrado
+Cesena	No encontrado
+Wolfsberger AC	No encontrado
+Hammarby IF	No encontrado
+Brescia	No encontrado
+Hibernian	No encontrado
+Fortuna Sittard	No encontrado
+Coquimbo Unido	No encontrado
+Derby County	No encontrado
+Albacete BP	No encontrado
+Burgos CF	No encontrado
+FC Winterthur	No encontrado
+East Bengal	No encontrado
+AVS Futebol SAD	No encontrado
+SZ Peng City	No encontrado
+Wuhan Three Towns	No encontrado
+Danubio	No encontrado
+Tigre	No encontrado
+Wanderers	No encontrado
+Huddersfield	No encontrado
+GwangJu FC	No encontrado
+FC Luzern	No encontrado
+Meizhou Hakka FC	No encontrado
+FC Sion	No encontrado
+UCV	No encontrado
+Cosenza	No encontrado
+SC Paderborn 07	No encontrado
+Barracas Central	No encontrado
+GC Zürich	No encontrado
+Aberdeen	No encontrado
+Legia Warszawa	No encontrado
+Brisbane Roar	No encontrado
+Sport Huancayo	No encontrado
+Randers FC	No encontrado
+USL Dunkerque	No encontrado
+Palestino	No encontrado
+FC Groningen	No encontrado
+Cobresal	No encontrado
+Adelaide United	No encontrado
+Farul Constanța	No encontrado
+Técnico U.	No encontrado
+TSV Hartberg	No encontrado
+Always Ready	No encontrado
+Odisha FC	No encontrado
+Cittadella	No encontrado
+Oxford United	No encontrado
+Zagłębie Lubin	No encontrado
+Red Star FC	No encontrado
+Wrexham	No encontrado
+Go Ahead Eagles	No encontrado
+Caracas FC	No encontrado
+CD Mirandés	No encontrado
+SK Brann	No encontrado
+Amiens SC	No encontrado
+Cerro Largo	No encontrado
+Nacional Potosí	No encontrado
+CD Eldense	No encontrado
+FC Rapid 1923	No encontrado
+Central Coast	No encontrado
+Pau FC	No encontrado
+Melb. Victory	No encontrado
+FC Cartagena	No encontrado
+FC Univ. Cluj	No encontrado
+Central Córdoba	No encontrado
+AIK	No encontrado
+Laval MFC	No encontrado
+Arminia Bielefeld	No encontrado
+Guaraní	No encontrado
+Stal Mielec	No encontrado
+Silkeborg IF	No encontrado
+SCR Altach	No encontrado
+Wehen Wiesbaden	No encontrado
+CFR 1907 Cluj	No encontrado
+Perth Glory	No encontrado
+FC Hansa Rostock	No encontrado
+Reading	No encontrado
+RKC Waalwijk	No encontrado
+Bolton	No encontrado
+Mantova	No encontrado
+Dep. Táchira	No encontrado
+IFK Göteborg	No encontrado
+Śląsk Wrocław	No encontrado
+FC Ingolstadt 04	No encontrado
+Portsmouth	No encontrado
+WS Wanderers	No encontrado
+Charlton Ath	No encontrado
+St. Johnstone	No encontrado
+ESTAC Troyes	No encontrado
+Rotherham Utd	No encontrado
+Dep. Garcilaso	No encontrado
+Mohun Bagan SG	No encontrado
+VfL Osnabrück	No encontrado
+Jamshedpur FC	No encontrado
+Unión La Calera	No encontrado
+Grazer AK	No encontrado
+Metropolitanos	No encontrado
+Lillestrøm SK	No encontrado
+Rot-Weiss Essen	No encontrado
+Odds BK	No encontrado
+Dynamo Dresden	No encontrado
+Dep. Riestra	No encontrado
+SV Elversberg	No encontrado
+NAC Breda	No encontrado
+Sarpsborg 08	No encontrado
+Nantong Zhiyun FC	No encontrado
+Jahn Regensburg	No encontrado
+FCV Dender EH	No encontrado
+Wycombe	No encontrado
+Gangwon FC	No encontrado
+Viborg FF	No encontrado
+Austria Klagenfurt	No encontrado
+AC Ajaccio	No encontrado
+Willem II	No encontrado
+Sepsi OSK	No encontrado
+GKS Katowice	No encontrado
+Peterborough	No encontrado
+Motor Lublin	No encontrado
+K. Beerschot VA	No encontrado
+Carrarese Calcio	No encontrado
+FK Haugesund	No encontrado
+Strømsgodset IF	No encontrado
+WSG Tirol	No encontrado
+Wilstermann	No encontrado
+AaB	No encontrado
+Cracovia	No encontrado
+KFUM-Kameratene	No encontrado
+FC Martigues	No encontrado
+Mansfield Town	No encontrado
+Punjab FC	No encontrado
+Almere City FC	No encontrado
+Well. Phoenix	No encontrado
+En Avant Guingamp	No encontrado
+Alianza FC	No encontrado
+SV Waldhof	No encontrado
+FC Dinamo 1948	No encontrado
+Shamrock Rovers	No encontrado
+SC Oțelul Galați	No encontrado
+Vejle Boldklub	No encontrado
+Piast Gliwice	No encontrado
+FC Goa	No encontrado
+SC Bastia	No encontrado
+IFK Värnamo	No encontrado
+Lincoln City	No encontrado
+SSV Ulm 1846	No encontrado
+Western United	No encontrado
+Blau-Weiss Linz	No encontrado
+Carabobo FC	No encontrado
+Northampton	No encontrado
+Heracles Almelo	No encontrado
+Barnsley	No encontrado
+Blackpool	No encontrado
+Notts County	No encontrado
+Mumbai City FC	No encontrado
+Kerala Blasters	No encontrado
+FC Erzgebirge Aue	No encontrado
+Córdoba CF	No encontrado
+Saarbrücken	No encontrado
+Exeter City	No encontrado
+Rodez AF	No encontrado
+Brommapojkarna	No encontrado
+St. Mirren	No encontrado
+S. Ameliano	No encontrado
+Stevenage	No encontrado
+ADT	No encontrado
+Wigan Athletic	No encontrado
+Motherwell	No encontrado
+Dep. La Guaira	No encontrado
+1860 München	No encontrado
+FC Petrolul	No encontrado
+Club Nacional	No encontrado
+FC Hermannstadt	No encontrado
+SV Sandhausen	No encontrado
+FC Gloria Buzău	No encontrado
+Chennaiyin FC	No encontrado
+S. Trinidense	No encontrado
+Chesterfield	No encontrado
+FC Annecy	No encontrado
+NorthEast United	No encontrado
+FC Botoșani	No encontrado
+Radomiak Radom	No encontrado
+B. Dortmund II	No encontrado
+Kalmar FF	No encontrado
+Tromsø IL	No encontrado
+Colchester	No encontrado
+Delfín SC	No encontrado
+SS Juve Stabia	No encontrado
+Mjällby AIF	No encontrado
+Korona Kielce	No encontrado
+Politehnica Iași	No encontrado
+HJK Helsinki	No encontrado
+Doncaster	No encontrado
+Dundee United	No encontrado
+Dundee FC	No encontrado
+Puszcza	No encontrado
+Lyngby BK	No encontrado
+Al Riyadh	No encontrado
+UTA Arad	No encontrado
+SC Verl	No encontrado
+Halmstads BK	No encontrado
+Cambridge Utd	No encontrado
+Fredrikstad FK	No encontrado
+Lechia Gdańsk	No encontrado
+Sønderjyske	No encontrado
+Port Vale	No encontrado
+Galway United	No encontrado
+Bristol Rovers	No encontrado
+St. Pats	No encontrado
+Aleman. Aachen	No encontrado
+Leyton Orient	No encontrado
+Real Tomayapo	No encontrado
+Bradford City	No encontrado
+Viktoria Köln	No encontrado
+Stockport	No encontrado
+Shelbourne	No encontrado
+MK Dons	No encontrado
+Unterhaching	No encontrado
+Fleetwood Town	No encontrado
+Shrewsbury	No encontrado
+HamKam Fotball	No encontrado
+Salford City	No encontrado
+Carlisle United	No encontrado
+Burton Albion	No encontrado
+Energie Cottbus	No encontrado
+Crewe Alexandra	No encontrado
+Derry City	No encontrado
+Walsall	No encontrado
+Swindon Town	No encontrado
+Gillingham	No encontrado
+Barrow	No encontrado
+Sligo Rovers	No encontrado
+Sandefjord	No encontrado
+IK Sirius	No encontrado
+Unirea Slobozia	No encontrado
+Newcastle Jets	No encontrado
+VfB Stuttgart II	No encontrado
+Rayo Zuliano	No encontrado
+Crawley Town	No encontrado
+Morecambe	No encontrado
+Västerås SK	No encontrado
+AFC Wimbledon	No encontrado
+Ross County	No encontrado
+Kristiansund BK	No encontrado
+GAIS	No encontrado
+Tranmere Rovers	No encontrado
+Harrogate Town	No encontrado
+Cheltenham Town	No encontrado
+Bromley FC	No encontrado
+Bohemians	No encontrado
+Hannover 96 II	No encontrado
+Grimsby Town	No encontrado
+Newport County	No encontrado
+Accrington	No encontrado
+Waterford	No encontrado
+Dundalk	No encontrado
+Drogheda United	No encontrado
+Mohammedan SC	No encontrado
+Hyderabad FC	No encontrado
