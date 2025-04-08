@@ -52,11 +52,13 @@ def main():
         print(cartas.columns)
         
         if 'cod_carta' in cartas.columns:
-            cartas['cod_carta'] = cartas['cod_carta'].astype(str).str.strip()  # Añadido paréntesis
+            cartas['cod_carta'] = cartas['cod_carta'].astype(str).str.strip()         
             # Generar además un precio a las cartas
             cartas['precio'] = cartas['cod_carta'].apply(asignar_precio)
-            cartas.to_csv('../csv/cartasJugadores.csv', index=False)
-            print("Precios asignados y archivo guardado correctamente.")
+            with open('../txt/precios.txt', 'w') as txt:
+                for index, row in cartas.iterrows():
+                    txt.write(f"{row['precio']}\n")
+                print("Precios asignados y archivo guardado correctamente.")
         else:
             print("La columna 'cod_carta' no existe en el dataframe.")
     
