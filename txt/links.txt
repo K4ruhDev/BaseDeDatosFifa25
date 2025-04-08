@@ -1,4 +1,3 @@
-enlace_imagen
 https://cmtracker.fra1.cdn.digitaloceanspaces.com/DB/25/heads/p231747.png
 https://cmtracker.fra1.cdn.digitaloceanspaces.com/DB/25/heads/p231866.png
 https://cmtracker.fra1.cdn.digitaloceanspaces.com/DB/25/heads/p239085.png
