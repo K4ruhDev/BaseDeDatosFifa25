@@ -28,4 +28,5 @@ Para más información, por favor contacta a [jcampana@centronelson.org](mailto:
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
+![INIESTA](https://s1.abcstatics.com/Media/201203/22/iniesta-facebook--644x362.jpg)
 ---
